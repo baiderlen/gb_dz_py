@@ -98,5 +98,5 @@ with open('DZ4(1).txt', 'r') as t1, open('DZ4(2).txt') as t2, open('DZ4(3).txt',
 
 
 '''
-
+ 
 
